@@ -1,0 +1,21 @@
+// Setup
+@import 'setup/variables';
+@import 'setup/functions';
+@import 'setup/mixins';
+@import 'setup/typography';
+
+// Basics
+@import 'basics/helpers';
+@import 'basics/layout';
+@import 'basics/base';
+@import 'basics/headings';
+
+// Pages
+@import 'pages/home-page';
+
+// Componenets
+@import 'cmps/navbar';
+@import 'cmps/product-details';
+@import 'cmps/product-gallery';
+@import 'cmps/button-quantity';
+@import 'cmps/light-box';

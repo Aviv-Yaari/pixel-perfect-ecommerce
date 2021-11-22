@@ -1,0 +1,68 @@
+.navbar {
+  padding: 20px 0;
+  @include for-normal-layout {
+    padding: 40px 0;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 100px;
+  }
+
+  .icon-menu {
+    margin-right: 15px;
+    @include for-normal-layout {
+      display: none;
+    }
+  }
+
+  .logo {
+    margin-right: 40px;
+  }
+
+  .links {
+    display: none;
+    @include for-normal-layout {
+      display: flex;
+    }
+    > * {
+      color: $clr-secondary-2;
+      padding: 10px;
+      margin: 0 10px;
+      &:first-child {
+        margin: 0;
+      }
+    }
+  }
+
+  .light-box {
+    .content {
+      padding-top: 20px;
+      padding-left: 20px;
+      background: #fff;
+      width: 300px;
+      height: 100%;
+    }
+    .menu-links {
+      gap: 10px;
+      margin-top: 30px;
+      > * {
+        padding: 7px 10px;
+        color: $clr-black;
+        font-weight: 700;
+      }
+    }
+  }
+
+  .cart-avatar {
+    margin-left: auto;
+    gap: 20px;
+    @include for-normal-layout {
+      gap: 50px;
+    }
+  }
+
+  .avatar {
+    width: 25px;
+    @include for-normal-layout {
+      width: 50px;
+    }
+  }
+}

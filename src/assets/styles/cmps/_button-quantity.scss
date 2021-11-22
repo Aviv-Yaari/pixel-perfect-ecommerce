@@ -1,0 +1,13 @@
+.btn-quantity {
+  background-color: $clr-secondary-4;
+  gap: 25px;
+  padding: 8px 4px;
+  border-radius: 10px;
+  cursor: default;
+  font-weight: 700;
+  font-size: em(14px, 16px);
+  .btn-minus,
+  .btn-plus {
+    padding: 10px;
+  }
+}

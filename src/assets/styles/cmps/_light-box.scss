@@ -1,0 +1,28 @@
+.light-box {
+  position: absolute;
+  .overlay {
+    background-color: $clr-black;
+    position: fixed;
+    z-index: 100;
+    inset: 0;
+    &.place-content-center {
+      display: grid;
+      place-content: center;
+    }
+  }
+}
+
+.product-details .light-box {
+  .white-overlay {
+    background: rgba(255, 255, 255, 0.185);
+    position: relative;
+    border-radius: 15px;
+    img {
+      position: absolute;
+      z-index: -1;
+    }
+  }
+  .content {
+    width: 500px;
+  }
+}
