@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pixel-perfect-ecommerce/static/css/main.195da5a2.chunk.css",
-    "main.js": "/pixel-perfect-ecommerce/static/js/main.e271e574.chunk.js",
-    "main.js.map": "/pixel-perfect-ecommerce/static/js/main.e271e574.chunk.js.map",
+    "main.js": "/pixel-perfect-ecommerce/static/js/main.1ca3c2ac.chunk.js",
+    "main.js.map": "/pixel-perfect-ecommerce/static/js/main.1ca3c2ac.chunk.js.map",
     "runtime-main.js": "/pixel-perfect-ecommerce/static/js/runtime-main.1a7db5b8.js",
     "runtime-main.js.map": "/pixel-perfect-ecommerce/static/js/runtime-main.1a7db5b8.js.map",
-    "static/js/2.643e8d8c.chunk.js": "/pixel-perfect-ecommerce/static/js/2.643e8d8c.chunk.js",
-    "static/js/2.643e8d8c.chunk.js.map": "/pixel-perfect-ecommerce/static/js/2.643e8d8c.chunk.js.map",
+    "static/js/2.dfc64213.chunk.js": "/pixel-perfect-ecommerce/static/js/2.dfc64213.chunk.js",
+    "static/js/2.dfc64213.chunk.js.map": "/pixel-perfect-ecommerce/static/js/2.dfc64213.chunk.js.map",
     "index.html": "/pixel-perfect-ecommerce/index.html",
     "static/css/main.195da5a2.chunk.css.map": "/pixel-perfect-ecommerce/static/css/main.195da5a2.chunk.css.map",
-    "static/js/2.643e8d8c.chunk.js.LICENSE.txt": "/pixel-perfect-ecommerce/static/js/2.643e8d8c.chunk.js.LICENSE.txt",
+    "static/js/2.dfc64213.chunk.js.LICENSE.txt": "/pixel-perfect-ecommerce/static/js/2.dfc64213.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/pixel-perfect-ecommerce/static/media/KumbhSans-Regular.f0b817a5.ttf",
     "static/media/icon-cart.539ec608.svg": "/pixel-perfect-ecommerce/static/media/icon-cart.539ec608.svg",
     "static/media/icon-close.c3904486.svg": "/pixel-perfect-ecommerce/static/media/icon-close.c3904486.svg",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1a7db5b8.js",
-    "static/js/2.643e8d8c.chunk.js",
+    "static/js/2.dfc64213.chunk.js",
     "static/css/main.195da5a2.chunk.css",
-    "static/js/main.e271e574.chunk.js"
+    "static/js/main.1ca3c2ac.chunk.js"
   ]
 }
