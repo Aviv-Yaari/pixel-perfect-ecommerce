@@ -2,7 +2,7 @@ import { ButtonQuantity } from './ButtonQuantity';
 import { ProductGallery } from './ProductGallery';
 import { ReactComponent as CartIcon } from '../assets/img/icon-cart.svg';
 import { LightBox } from './LightBox';
-import { useState } from 'react/cjs/react.development';
+import { useState } from 'react';
 
 export function ProductDetails(props) {
   const [isLightBox, setIsLightBox] = useState(false);
